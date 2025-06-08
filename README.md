@@ -1,5 +1,3 @@
-# 🚀 Terminal Session: Security Student Profile
-
 ```
 C:\Users\Student> systeminfo | findstr /B /C:"OS Name" /C:"OS Version"
 OS Name:                   Applied Computer Science Student
