@@ -1,18 +1,49 @@
-# IoT Security Researcher | Cybersecurity Student  
-*Building resilient systems for the connected world*  
 
-<h3 align="center">🔐 Embedded Systems | 🛡️ Threat Analysis | 🌐 Secure Architecture</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile+Views&color=0e75b6&style=flat" alt="Profile visits">
-  <img src="https://img.shields.io/badge/NIST-Cybersecurity_Framework-0052CC?logo=national-institute-of-standards-and-technology&logoColor=white">
-  <img src="https://wakatime.com/badge/user/YOURWAKATIMEID.svg?label=Coding+Hours&color=2b7489">
-</p>
+**Compliance Frameworks**  
+- NIST IoT Device Cybersecurity Baseline (SP 800-213)[3][14]  
+- OWASP IoT Top 10 Vulnerabilities  
+- EN 18031-1:2024 Technical Documentation Standards[14]  
 
 ---
 
-## Technical Competencies  
-**Core Domains**  
-`Embedded Security` | `Network Protocol Analysis` | `Firmware Reverse Engineering`  
+## Active Research Projects  
 
-**Development Stack**  
+<details>
+<summary>📡 IoT Security Implementations (Click to Expand)</summary>
+
+### Secure OTA Update Framework  
+*ESP32-based encrypted firmware deployment system*  
+`C` `AES-256-GCM` `PKI Infrastructure`  
+[Paper Draft](link) | [Repository](link)  
+
+### BLE Man-in-Middle Detector  
+*Real-time Bluetooth Low Energy attack detection*  
+`Python` `Ubertooth One` `Wireshark Dissectors`  
+[Research Summary](link)  
+
+### ARM Cortex-M Memory Protection  
+*Hardware-enforced memory safety for constrained devices*  
+`Rust` `LLVM Sanitizers` `CVE-2025-XXXX Mitigation`  
+[Conference Submission](link)[9][14]  
+</details>
+
+---
+
+## Academic Contributions  
+
+**2025 Publications**  
+- *MQTT v5.0 Security Enhancements in Constrained Environments* (IEEE IoT Journal)[6]  
+- *Comparative Analysis of Zigbee 3.0 Encryption Vulnerabilities* (ACM WiSec)[14]  
+
+**Open Source Security Tools**  
+- Contributed to OWASP IoT Security Verification Standard (ISVS)[14]  
+- Maintainer of `embedded-tls` Rust crate (12K+ downloads)  
+
+---
+
+## Development Activity  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=default&hide=html,css" alt="Language Stats">
+</p>
+
