@@ -1,66 +1,39 @@
-#  _____________________________________________________________
-# |                                                             |
-# |   ██████╗ ██████╗ ███╗   ███╗███████╗██████╗  ██████╗██████╗  |
-# |  ██╔════╝██╔═══██╗████╗ ████║██╔════╝██╔══██╗██╔════╝██╔══██╗ |
-# |  ██║     ██║   ██║██╔████╔██║█████╗  ██████╔╝██║     ██████╔╝ |
-# |  ██║     ██║   ██║██║╚██╔╝██║██╔══╝  ██╔══██╗██║     ██╔══██╗ |
-# |  ╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗██║  ██║╚██████╗██║  ██║ |
-# |   ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝ |
-# |_____________________________________________________________|
-# |                                                             |
-# |  [*] Computer Science Student                               |
-# |  [*] Code Alchemist                                         |
-# |  [*] Midnight Snack Connoisseur                             |
-# |_____________________________________________________________|
+# neofetch: Your Student Profile
 
-/* PROGRAM INITIALIZATION */
-const student = {
-  name: "YOUR_NAME",
-  university: "🚀 Galactic Code Academy",
-  year: "Class of 20XX",
-  skills: ["Python", "Java", "C++", "Web Dev", "Late Night Debugging"],
-  currentProject: "Building the Ultimate Study Buddy AI",
-};
+```
+       _nnnn_                      
+      dGGGGMMb     ,-----------,     
+     @p~qp~~qMb    |   Student |     
+     M|@||@) M|    |   Applied |     
+     @,----.JM|    | Computer  |     
+    JS^\__/  qKL   |   Science |     
+   dZP        qKRb |-----------|     
+  dZP          qKKb|Cybersec   |     
+ fZP            SMMb|Infra     |     
+ HZM            MMMM|-----------|    
+ FqM            MMMM|           |    
+ __| ".        |\dS"qML        |     
+ |    `.       | `' \Zq       |      
+_)      \.___.,|     .'      |       
+\____   )MMMMMP|   .'        |       
+     `-'       `--'          |       
+```
 
-//=============== TERMINAL INTERFACE ===============//
-while (coding) {
-  ██████████████████████████████████████████████████
-  █░                                            ░░█
-  █░  ➜ ./portfolio --status                   ░░█
-  █░  [*] Active Projects: 5                   ░░█
-  █░  [*] Coffee Consumed: ∞                   ░░█
-  █░  [*] Sleep Debt: 42h                      ░░█
-  █░                                            ░░█
-  ██████████████████████████████████████████████████
-}
+```
+OS: Applied Computer Science Student  
+Host: Infrastructure & Cybersecurity  
+Kernel: Passion for Backend, IoT, and Secure Systems  
+Shell: STM32WB, EdgeLock A30, Hardware Security  
+RAM: Always learning, always building  
+CPU: Problem Solver  
+```
 
-//-------------- COURSEWORK PROJECTS --------------//
-class Projects {
-  constructor() {
-    this.current = [
-      "🤖 Machine Learning Model for Exam Predictions",
-      "🌐 University Network Security Simulator",
-      "📚 Automated Lecture Note Organizer"
-    ];
-    this.techStack = ["Python", "TensorFlow", "React", "Node.js"];
-  }
-}
+---
 
-//=============== SYSTEM STATUS ================//
-               █████████████████████
-               █   MEMORY USAGE    █
-               █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
-               █  SKILLS  ░░░░░░░░90%█
-               █  GRADES  ░░░░░░░░85%█
-               █  ENERGY  ░░░░░░░░20%█
-               █████████████████████
+## About Me
 
-//=============== COMMAND LINE ================//
-➜ ./connect --social
-📧 Email:     student@university.edu
-🐱 GitHub:    github.com/yourusername
-💼 LinkedIn:  linkedin.com/in/yourprofile
-📚 Blog:      medium.com/your-thoughts
+I am a student in **Applied Computer Science** with a strong focus on **infrastructure** and **cybersecurity**. My interests include backend development, IoT, and the design of secure hardware systems using platforms like STM32WB microcontrollers and EdgeLock A30.
 
-➜ ./run --motivation
-"Keep coding! The all-nighter will be worth it... probably."
+---
+
+*Feel free to customize this profile further to reflect your specific projects and interests!*
