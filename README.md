@@ -1,49 +1,66 @@
+#  _____________________________________________________________
+# |                                                             |
+# |   ██████╗ ██████╗ ███╗   ███╗███████╗██████╗  ██████╗██████╗  |
+# |  ██╔════╝██╔═══██╗████╗ ████║██╔════╝██╔══██╗██╔════╝██╔══██╗ |
+# |  ██║     ██║   ██║██╔████╔██║█████╗  ██████╔╝██║     ██████╔╝ |
+# |  ██║     ██║   ██║██║╚██╔╝██║██╔══╝  ██╔══██╗██║     ██╔══██╗ |
+# |  ╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗██║  ██║╚██████╗██║  ██║ |
+# |   ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝ |
+# |_____________________________________________________________|
+# |                                                             |
+# |  [*] Computer Science Student                               |
+# |  [*] Code Alchemist                                         |
+# |  [*] Midnight Snack Connoisseur                             |
+# |_____________________________________________________________|
 
-**Compliance Frameworks**  
-- NIST IoT Device Cybersecurity Baseline (SP 800-213)[3][14]  
-- OWASP IoT Top 10 Vulnerabilities  
-- EN 18031-1:2024 Technical Documentation Standards[14]  
+/* PROGRAM INITIALIZATION */
+const student = {
+  name: "YOUR_NAME",
+  university: "🚀 Galactic Code Academy",
+  year: "Class of 20XX",
+  skills: ["Python", "Java", "C++", "Web Dev", "Late Night Debugging"],
+  currentProject: "Building the Ultimate Study Buddy AI",
+};
 
----
+//=============== TERMINAL INTERFACE ===============//
+while (coding) {
+  ██████████████████████████████████████████████████
+  █░                                            ░░█
+  █░  ➜ ./portfolio --status                   ░░█
+  █░  [*] Active Projects: 5                   ░░█
+  █░  [*] Coffee Consumed: ∞                   ░░█
+  █░  [*] Sleep Debt: 42h                      ░░█
+  █░                                            ░░█
+  ██████████████████████████████████████████████████
+}
 
-## Active Research Projects  
+//-------------- COURSEWORK PROJECTS --------------//
+class Projects {
+  constructor() {
+    this.current = [
+      "🤖 Machine Learning Model for Exam Predictions",
+      "🌐 University Network Security Simulator",
+      "📚 Automated Lecture Note Organizer"
+    ];
+    this.techStack = ["Python", "TensorFlow", "React", "Node.js"];
+  }
+}
 
-<details>
-<summary>📡 IoT Security Implementations (Click to Expand)</summary>
+//=============== SYSTEM STATUS ================//
+               █████████████████████
+               █   MEMORY USAGE    █
+               █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
+               █  SKILLS  ░░░░░░░░90%█
+               █  GRADES  ░░░░░░░░85%█
+               █  ENERGY  ░░░░░░░░20%█
+               █████████████████████
 
-### Secure OTA Update Framework  
-*ESP32-based encrypted firmware deployment system*  
-`C` `AES-256-GCM` `PKI Infrastructure`  
-[Paper Draft](link) | [Repository](link)  
+//=============== COMMAND LINE ================//
+➜ ./connect --social
+📧 Email:     student@university.edu
+🐱 GitHub:    github.com/yourusername
+💼 LinkedIn:  linkedin.com/in/yourprofile
+📚 Blog:      medium.com/your-thoughts
 
-### BLE Man-in-Middle Detector  
-*Real-time Bluetooth Low Energy attack detection*  
-`Python` `Ubertooth One` `Wireshark Dissectors`  
-[Research Summary](link)  
-
-### ARM Cortex-M Memory Protection  
-*Hardware-enforced memory safety for constrained devices*  
-`Rust` `LLVM Sanitizers` `CVE-2025-XXXX Mitigation`  
-[Conference Submission](link)[9][14]  
-</details>
-
----
-
-## Academic Contributions  
-
-**2025 Publications**  
-- *MQTT v5.0 Security Enhancements in Constrained Environments* (IEEE IoT Journal)[6]  
-- *Comparative Analysis of Zigbee 3.0 Encryption Vulnerabilities* (ACM WiSec)[14]  
-
-**Open Source Security Tools**  
-- Contributed to OWASP IoT Security Verification Standard (ISVS)[14]  
-- Maintainer of `embedded-tls` Rust crate (12K+ downloads)  
-
----
-
-## Development Activity  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=default&hide=html,css" alt="Language Stats">
-</p>
-
+➜ ./run --motivation
+"Keep coding! The all-nighter will be worth it... probably."
